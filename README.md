@@ -34,4 +34,4 @@ An employee directory created with React to manage list of employees.
 
 4. Search for an employee. This can be done by either using the search box or using the sort button to order the employee names in alphabetical order. 
 
-![EmployeeReactApp](public\Employee-Directory.gif)
+![EmployeeReactApp](https://github.com/amandardz/Employee-Directory/blob/main/public/Employee-Directory.gif)
